@@ -10,7 +10,7 @@ This project aims to enhance fake news detection by integrating multiple data so
 - **Real-time Analysis:** Optimized for swift live data processing.
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 - Libraries: `transformers`, `torch`, `numpy`, `pandas`
   
 
